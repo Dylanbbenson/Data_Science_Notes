@@ -1,2 +1,2 @@
-# Pandas_Notes
-These are just some notes I wrote while learning the Python DS module Pandas, as well as Jupyter Notebooks and some other modules.
+# Data_Science_Notes
+These are just some notes I wrote while learning Data Science concepts and languages, like Jupyter Notebooks, Python, and subsequent modules. Some of the modules include Pandas, Matplotlib, Seaborn,and FBProphet. I often use the code in these notes when performing other projects, so I'll sometimes add to this repository anything that I thought was helpful. Maybe it'll help you too?
